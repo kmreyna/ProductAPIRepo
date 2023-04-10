@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kyrsc\\OneDrive\\Temple University\\Spr2023QATesting\\ProductsApp\\ProductsApp.Tests\\ProductsApp.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kyrsc\\OneDrive\\Temple University\\Spr2023QATesting\\ProductsApp\\ProductsApp.Tests\\ProductsApp.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kyrsc\\OneDrive\\Temple University\\Spr2023QATesting\\ProductsApp\\ProductsApp.Tests\\ProductsApp.Tests.csproj",
+        "projectName": "ProductsApp.Tests",
+        "projectPath": "C:\\Users\\kyrsc\\OneDrive\\Temple University\\Spr2023QATesting\\ProductsApp\\ProductsApp.Tests\\ProductsApp.Tests.csproj",
+        "packagesPath": "C:\\Users\\kyrsc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kyrsc\\OneDrive\\Temple University\\Spr2023QATesting\\ProductsApp\\ProductsApp.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kyrsc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {
+              "C:\\Users\\kyrsc\\OneDrive\\Temple University\\Spr2023QATesting\\ProductsApp\\ProductsApp\\ProductsApp.csproj": {
+                "projectPath": "C:\\Users\\kyrsc\\OneDrive\\Temple University\\Spr2023QATesting\\ProductsApp\\ProductsApp\\ProductsApp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\kyrsc\\OneDrive\\Temple University\\Spr2023QATesting\\ProductsApp\\ProductsApp\\ProductsApp.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kyrsc\\OneDrive\\Temple University\\Spr2023QATesting\\ProductsApp\\ProductsApp\\ProductsApp.csproj",
+        "projectName": "ProductsApp",
+        "projectPath": "C:\\Users\\kyrsc\\OneDrive\\Temple University\\Spr2023QATesting\\ProductsApp\\ProductsApp\\ProductsApp.csproj",
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {}
+      }
+    }
+  }
+}
