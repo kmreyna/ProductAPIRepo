@@ -34,7 +34,7 @@
 							"    pm.expect(\"Toe-mato Soup\").to.equal(jsonData[0].Name)\r",
 							"});\r",
 							"pm.test(\"value of [0].Category to be \\\"Glossaries\\\"\", function(){\r",
-							"    pm.expect(\"Glossarie\").to.equal(jsonData[0].Category)\r",
+							"    pm.expect(\"Glossaries\").to.equal(jsonData[0].Category)\r",
 							"});\r",
 							"pm.test(\"value of [0].Price to be 78.0\", function(){\r",
 							"    pm.expect(78.0).to.equal(jsonData[0].Price)\r",
